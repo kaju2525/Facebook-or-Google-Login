@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138180395869",
+    "project_id": "scenic-healer-159308"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138180395869:android:fbcbfeb4991e1a2b",
+        "android_client_info": {
+          "package_name": "com.example.kaju.social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138180395869-nbqkgj6pjmvuhv7mp0uhpgfo07r44t8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaju.social_media",
+            "certificate_hash": "093770834115520B32FCC4EC23C15A37A8C93ED3"
+          }
+        },
+        {
+          "client_id": "138180395869-mnfoa1qanpafa059j5r2drsej4iepab4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WHhdcx0tljtGxhUPLEx2MgYNoO7rY5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
